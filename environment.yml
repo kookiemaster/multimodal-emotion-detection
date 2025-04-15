@@ -1,0 +1,24 @@
+name: multimodal-emotion-detection
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchaudio
+  - cudatoolkit=11.7
+  - pip
+  - pip:
+    - transformers
+    - datasets
+    - librosa
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - tensorboard
+    - tqdm
+    - pyyaml
+    - soundfile
+    - huggingface_hub
