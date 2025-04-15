@@ -3,16 +3,16 @@
 ## Setup
 - [x] Clarify user requirements
 - [x] Setup GitHub repository
-- [ ] Research state-of-the-art multimodal emotion detection methods
-- [ ] Analyze top methods and models
-- [ ] Select model to replicate
+- [x] Research state-of-the-art multimodal emotion detection methods
+- [x] Analyze top methods and models
+- [x] Select model to replicate
 
 ## Implementation
-- [ ] Setup development environment
-- [ ] Install required dependencies
-- [ ] Implement selected model
-- [ ] Prepare test data
-- [ ] Test model implementation
+- [x] Setup development environment
+- [x] Install required dependencies (partial due to disk space)
+- [x] Implement selected model
+- [x] Prepare test data
+- [x] Test model implementation (limited by dependencies)
 - [ ] Evaluate model performance
 - [ ] Optimize model if needed
 
